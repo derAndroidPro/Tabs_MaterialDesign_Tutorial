@@ -1,5 +1,5 @@
 # Tabs Material Design Tutorial
-####So programmiertst du Tabs im Material Design in Android!
+####So programmierst du Tabs im Material Design in Android!
 
 - [Tutorial auf YouTube](https://youtu.be/YjySSvNmN4s)
 - Projekt für Android Studio
