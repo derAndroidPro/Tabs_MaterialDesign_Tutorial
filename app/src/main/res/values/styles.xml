@@ -1,0 +1,26 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+
+        <item name="colorPrimary">#00bbff</item>
+
+        <item name="colorPrimaryDark">#00a8e6</item>
+        <item name="colorAccent">#00bbff</item>
+
+        <!-- Customize your theme here. -->
+    </style>
+
+
+    <style name="toolbarstyle" parent="Theme.AppCompat">
+
+        <item name="popupTheme">@style/Theme.AppCompat.Light</item>
+        <item name="colorPrimary">#00bbff</item>
+
+        <item name="colorPrimaryDark">#00a8e6</item>
+        <item name="colorAccent">#fff</item>
+
+
+    </style>
+
+</resources>
